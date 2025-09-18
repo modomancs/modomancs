@@ -3,9 +3,19 @@
 ---
 ## My hobbies:
 - Traveling and exploring the world
+
+   ![Airplane](https://i.kym-cdn.com/photos/images/list/001/220/403/c33.gif)
 - Gym
+
+  ![Gym](https://media.tenor.com/LuWPtzThX64AAAAM/grelf-mww.gif)
 - Nightlife
+
+  ![Party](https://media0.giphy.com/media/QyzdK7DXrGDN8BH0H1/100.gif?cid=790b76119262qxciu4ot5l0z6s6q522djjsk1lgtlgjltrfo&ep=v1_gifs_search&rid=100.gif&ct=g)
+
+
 - Meeting with friends
+
+  ![Meeting](https://media3.giphy.com/media/LiCAlSFILiLtu/giphy.gif)
 ### List of Countries I have visited:
 - _Greece_
 
