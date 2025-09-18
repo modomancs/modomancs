@@ -1,5 +1,5 @@
 # ![fire](https://cdn3.emoji.gg/emojis/7960-fire.gif) Welcome to my Page ![fire](https://cdn3.emoji.gg/emojis/7960-fire.gif)
-> My name is Efstathios, or Stathis for short. I come from Greece and have been living in Germany since December of 2013. I'm learning to code at [Neuefische](https://www.neuefische.de/) 
+> My name is Efstathios, or Stathis for short. I come from Greece and have been living in Germany since December of 2013. I'm learning to code at [Neuefische](https://www.neuefische.de/). 
 ---
 ## My hobbies:
 - Traveling and exploring the world
