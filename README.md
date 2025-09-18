@@ -5,4 +5,4 @@
 - Traveling and exploring the world
 - Gym
 - Nightlife
-- 
+- Meeting with friends
