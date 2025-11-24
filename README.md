@@ -66,6 +66,6 @@ Pure JavaScript, API fetching, search, pagination, and component-based DOM struc
 
 If you'd like to collaborate or have an opportunity that fits my skills, feel free to reach out:
 
-- 📧 Email: **modo575@hotmail.com**
+- 📧 Email: **efstathiostsanidis@outlook.com**
 - 🔗 Portfolio: https://efstathiostsanidis.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/efstathiostsanidis
