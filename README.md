@@ -1,37 +1,71 @@
-# ![fire](https://cdn3.emoji.gg/emojis/7960-fire.gif) Welcome to my Page ![fire](https://cdn3.emoji.gg/emojis/7960-fire.gif)
-> My name is Efstathios, or Stathis for short. I come from Greece and have been living in Germany since December of 2013. I'm learning to code at [Neuefische](https://www.neuefische.de/). 
+# Hi, I'm Efstathios Tsanidis 👋
+
+I'm a frontend-focused web developer with experience in **Next.js**, **React**, and modern JavaScript.  
+I love building clean, responsive, and user-friendly applications — and I’m currently open to new opportunities in frontend or full-stack development.
+
+I approach development with a strong sense of structure, quality, and consistency while always staying curious and leveling up my skills.
+
 ---
-## My hobbies:
-- Traveling and exploring the world
 
-   ![Airplane](https://i.kym-cdn.com/photos/images/list/001/220/403/c33.gif)
-- Gym
+## 🚀 Portfolio
 
-  ![Gym](https://media.tenor.com/LuWPtzThX64AAAAM/grelf-mww.gif)
-- Nightlife
+🔗 **My developer portfolio:**  
+https://efstathiostsanidis.vercel.app/
 
-  ![Party](https://media0.giphy.com/media/QyzdK7DXrGDN8BH0H1/100.gif?cid=790b76119262qxciu4ot5l0z6s6q522djjsk1lgtlgjltrfo&ep=v1_gifs_search&rid=100.gif&ct=g)
+---
 
+## 💼 About Me
 
-- Meeting with friends
+- Based in **Germany (NRW)**  
+- Passionate about clean UI, responsive layouts, and reusable component architecture  
+- Enjoy building smooth user experiences with modern frameworks  
+- Constantly learning backend fundamentals to grow into full-stack development  
+- Open to freelance, full-time, and collaborative opportunities  
 
-  ![Meeting](https://media3.giphy.com/media/LiCAlSFILiLtu/giphy.gif)
-### List of Countries I have visited:
-- _Greece_
+---
 
-   ![Greece](https://th.bing.com/th/id/OIP.-qRAIL2xc6mQpCQjlHE0OwHaHa?w=183&h=183&c=7&r=0&o=5&pid=1.7)
-- _Germany_
+## 🛠️ Tech Stack
 
- ![Germany](https://th.bing.com/th/id/OIP.4GyXlopzJkUyPMOnyI7yrgHaHa?w=177&h=180&c=7&r=0&o=5&pid=1.7)
-- _The Netherlands_
+### **Frontend**
+- **Next.js**, **React**, **JavaScript (ES6+)**
+- HTML5, CSS3
+- Styled-Components
+- SWR
+- REST APIs
 
-![The Netherlands](https://th.bing.com/th/id/OIP.sZwfBDyMCEaCqkp7DMi1ywHaE8?w=258&h=180&c=7&r=0&o=5&pid=1.7)
-- _Spain_
+### **Tools & Workflow**
+- Git, GitHub  
+- Vercel  
+- VS Code  
+- Jest & Testing Library  
 
- ![Spain](https://th.bing.com/th/id/OIP.5B0l6-_NI9eQmVwqeNb4JQHaHa?w=166&h=180&c=7&r=0&o=7&pid=1.7&rm=3)
-  
-#### My biggest goals for the next 5 years:
-- Raise right and take care of my family
-- Focus on programming and mastering it
-- Travel and see more of the world, especially the world wonders
-  ###### If you're interested more in my life, you can visit my [Instagram](https://www.instagram.com/stathis_tsan/) profile and give me a follow. Also don't forget to see my [bestfriend](https://yourdreamcoffee.com/freddo-espresso-recipe/). It will keep you cool and awake in the hot days!
+### **Currently Learning**
+- **MongoDB**  
+- **Backend fundamentals** (Node.js basics, API design, architecture)
+
+---
+
+## 📌 Featured Projects
+
+### 🖼️ **Art Gallery App**  
+Next.js + React gallery with Favorites, Comments, SWR caching, and reusable components.  
+**Repo:** available on GitHub  
+**Live:** listed on my portfolio
+
+### 📚 **LOTR Volumes App**  
+Dynamic routes, responsive UI, styled-components, reusable components.  
+**Repo:** available on GitHub
+
+### 🛸 **Rick & Morty Character Explorer**  
+Pure JavaScript, API fetching, search, pagination, and component-based DOM structure.  
+**Repo:** available on GitHub
+
+---
+
+## 📬 Contact
+
+If you'd like to collaborate or have an opportunity that fits my skills, feel free to reach out:
+
+- 📧 Email: **modo575@hotmail.com**
+- 🔗 Portfolio: https://efstathiostsanidis.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/efstathiostsanidis
