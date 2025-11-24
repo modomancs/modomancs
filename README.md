@@ -41,7 +41,7 @@ https://efstathiostsanidis.vercel.app/
 
 ### **Currently Learning**
 - **MongoDB**  
-- **Backend fundamentals** (Node.js basics, API design, architecture)
+- **Backend fundamentals** (API design, architecture)
 
 ---
 
