@@ -68,4 +68,4 @@ If you'd like to collaborate or have an opportunity that fits my skills, feel fr
 
 - 📧 Email: **efstathiostsanidis@outlook.com**
 - 🔗 Portfolio: https://efstathiostsanidis.vercel.app/
-- 💼 LinkedIn: https://www.linkedin.com/in/efstathiostsanidis
+- 💼 LinkedIn: https://www.linkedin.com/in/efstathios-tsanidis
